@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **Simens**
+- 👯 I’m looking to collaborate on **Siemens**
 
 - 💬 Ask me about **Dart and Flutter**
 
