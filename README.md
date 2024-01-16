@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Siemens**
 
-- 💬 Ask me about **Dart and Flutter and frontend development**
+- 💬 Ask me about **Mobile and web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
