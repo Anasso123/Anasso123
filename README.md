@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👯 I’m looking to collaborate on **Siemens**
-
 - 💬 Ask me about **Mobile and web development**
 
 <h3 align="left">Connect with me:</h3>
